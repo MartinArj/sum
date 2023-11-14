@@ -1,1 +1,6 @@
 C:\Users\ELCOT\Desktop\basicg1\sample\sample_git\sample_git\bin\Debug\sample_git.exe.config
+C:\Users\ELCOT\Desktop\basicg1\sample\sample_git\sample_git\bin\Debug\sample_git.exe
+C:\Users\ELCOT\Desktop\basicg1\sample\sample_git\sample_git\bin\Debug\sample_git.pdb
+C:\Users\ELCOT\Desktop\basicg1\sample\sample_git\sample_git\obj\Debug\sample_git.csprojResolveAssemblyReference.cache
+C:\Users\ELCOT\Desktop\basicg1\sample\sample_git\sample_git\obj\Debug\sample_git.exe
+C:\Users\ELCOT\Desktop\basicg1\sample\sample_git\sample_git\obj\Debug\sample_git.pdb
